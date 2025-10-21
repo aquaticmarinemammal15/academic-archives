@@ -1,0 +1,7 @@
+---
+tags: [psychology, cognition, problem-solving, decision-making, language, intelligence, testing, heuristics, bias]
+created: 2025-10-20
+---
+# Growth mindset
+
+Belief that abilities can be developed through effort and strategies; linked to persistence.
